@@ -36,3 +36,22 @@ section.module.splash-about {
   min-height: 70rem;
   font-size: 30px;
 }
+
+section.module.splash-whatwedo {
+  color: $grolab-purple;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 30px;
+}
+
+.whatwedoheader {
+  font: 100% $garamond;
+  font-size: 26px;
+  color: black
+}
+
+.whatwedobody {
+  font: 100% $garamond;
+  font-size: 18px;
+  color: black
+}

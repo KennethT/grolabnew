@@ -1,9 +1,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-.montserrat {
-  font-family: 'Montserrat', serif;
-}
+$montserrat: Montserrat, serif;
 
 .garamond {
   font-family: 'EB Garamond', serif;
@@ -19,4 +17,14 @@
 
 .navbar {
   color: white;
+}
+
+
+section.module.splash-index {
+  font: 100% $montserrat;
+  color: white;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 60px;
+  background-image: url('gro.png');
 }

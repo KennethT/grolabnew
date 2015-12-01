@@ -2,14 +2,17 @@
 @import "bootstrap";
 
 $montserrat: Montserrat, serif;
-
 $garamond: EB+Garamond, serif;
+
+$grolab-purple: #323298;
+$grolab-green: #7AE0BE;
+$grolab-blue: #7AD8E0;
 
 .navbar-fixed-top {
   padding-top: 1.5rem;
   padding-left: 0rem;
   padding-bottom: 1.5rem;
-  background-color: #323298;
+  background-color: $grolab-purple;
   opacity: 0.6;
 }
 

@@ -29,3 +29,10 @@ section.module.splash-index {
   font-size: 60px;
   background-image: url('gro.png');
 }
+
+section.module.splash-about {
+  color: $grolab-purple;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 30px;
+}

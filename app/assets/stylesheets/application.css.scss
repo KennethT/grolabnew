@@ -64,3 +64,23 @@ section.module.process-index {
   font-size: 60px;
   background-color: $grolab-green;
 }
+
+section.module.process-purpose {
+  color: $grolab-green;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 60px;
+  background-color: white;
+}
+
+.process-purpose-title {
+  color: $grolab-green;
+  font-size: 30px;
+  font: $montserrat;
+}
+
+.process-purpose-body {
+  color: $grolab-purple;
+  font-size: 40px;
+  font: $garamond;
+}

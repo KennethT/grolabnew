@@ -7,7 +7,7 @@ $garamond: EB+Garamond, serif;
 $grolab-purple: #323298;
 $grolab-green: #7AE0BE;
 $grolab-blue: #7AD8E0;
-$grolab-offwhite: #f4f9e7;
+$grolab-offwhite: #EBF9E7;
 
 .navbar-fixed-top {
   padding-top: 1.5rem;
@@ -84,4 +84,18 @@ section.module.process-purpose {
   color: $grolab-purple;
   font-size: 40px;
   font: $garamond;
+}
+
+section.module.process-customer-centric {
+  color: $grolab-green;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 60px;
+  background-color: $grolab-offwhite;
+}
+
+.process-customer-centric-title {
+  color: $grolab-green;
+  font-size: 30px;
+  font: $montserrat;
 }

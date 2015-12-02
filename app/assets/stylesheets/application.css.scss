@@ -7,6 +7,7 @@ $garamond: EB+Garamond, serif;
 $grolab-purple: #323298;
 $grolab-green: #7AE0BE;
 $grolab-blue: #7AD8E0;
+$grolab-offwhite: #f4f9e7;
 
 .navbar-fixed-top {
   padding-top: 1.5rem;
@@ -42,7 +43,7 @@ section.module.splash-whatwedo {
   vertical-align: middle;
   min-height: 70rem;
   font-size: 30px;
-  background-color: $grolab-blue;
+  background-color: $grolab-offwhite;
 }
 
 .whatwedoheader {

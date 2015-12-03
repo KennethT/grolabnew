@@ -151,3 +151,25 @@ section.module.services-development {
   font: $garamond;
   text-align: center;
 }
+
+section.module.services-consulting {
+  color: #FFFFFF;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 60px;
+  background-color: white;
+}
+
+.services-consulting-title {
+  color: $grolab-blue;
+  font-size: 30px;
+  font: $montserrat;
+  text-align: center;
+}
+
+.services-consulting-body {
+  color: black;
+  font-size: 18px;
+  font: $garamond;
+  text-align: center;
+}

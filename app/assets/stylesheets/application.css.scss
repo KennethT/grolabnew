@@ -129,3 +129,25 @@ section.module.services-actionable {
   font: $garamond;
   text-align: center;
 }
+
+section.module.services-development {
+  color: #FFFFFF;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 60px;
+  background-color: $grolab-offwhite;
+}
+
+.services-development-title {
+  color: $grolab-blue;
+  font-size: 30px;
+  font: $montserrat;
+  text-align: center;
+}
+
+.services-development-body {
+  color: black;
+  font-size: 18px;
+  font: $garamond;
+  text-align: center;
+}

@@ -47,15 +47,17 @@ section.module.splash-whatwedo {
 }
 
 .whatwedoheader {
-  font: 100% $garamond;
-  font-size: 26px;
+  font: 100% $montserrat;
+  font-size: 18px;
   color: black;
+  font-weight: bolder;
 }
 
 .whatwedobody {
-  font: 100% $garamond;
-  font-size: 18px;
+  font: 100% $montserrat;
+  font-size: 16px;
   color: black;
+  font-weight: 100;
 }
 
 section.module.process-index {

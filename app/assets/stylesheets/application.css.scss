@@ -29,6 +29,18 @@ $grolab-offwhite: #EBF9E7;
   color: white;
 }
 
+div.center {
+  width: 200px;
+  position: relative;
+  left: 50%;
+}
+
+div.vertical-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 
 section.module.splash-index {
   font: 100% $montserrat;
